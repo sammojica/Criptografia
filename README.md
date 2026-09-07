@@ -9,3 +9,4 @@ Repositorio que contiene los códigos desarrollados para las prácticas de la ma
 ## Prácticas
 
 * Práctica 01 — Cifrado César
+* Práctica 02 — Cifrado Vigenère
